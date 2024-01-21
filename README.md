@@ -15,22 +15,22 @@ Our collaboration with Rockbusters Business Intelligence team will assist in the
 The project utilizes fabricated data supplied by Career Foundry in the project brief. Analysis of the data was conducted through a relational database management system and PostgreSQL.
 the data contains as such:
 ### Fact_Table
-> Payment
-> Rental
+● Payment
+● Rental
 ### Dimension_Tables
-> Actor
-> Address
-> Category
-> City
-> Country
-> Customer
-> Film
-> Film Actor
-> Film Category
-> Inventory
-> Language
-> Staff
-> Store
+● Actor
+● Address
+● Category
+● City
+● Country
+● Customer
+● Film
+● Film Actor
+● Film Category
+● Inventory
+● Language
+● Staff
+● Store
 # Visualizations
 The visualization for this Project was created using Tableau, the link : https://public.tableau.com/app/profile/bandana.sharma6456/viz/TheRockbusterStealth/R
 
